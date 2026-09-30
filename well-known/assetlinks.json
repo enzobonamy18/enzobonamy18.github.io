@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.enzobonamy.orbitaldefense",
+        "sha256_cert_fingerprints": ["1F:CB:2C:50:0D:0F:9E:A7:FE:62:31:D5:DF:24:28:91:B6:A0:C4:CD:22:15:9F:52:3A:E0:D2:5C:90:BA:C4:77"]
+      }
+    }]
